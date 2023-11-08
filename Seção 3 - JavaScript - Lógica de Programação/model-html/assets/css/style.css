@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+   font-size: 62.5%;
+}
+
+body{
+    font-family: 'Open sans', sans-serif;
+    font-size: 1.6rem;
+
+    height: 100vh;
+    background-color: blue; 
+    background-image: linear-gradient(to right, #0052b0 ,#b340b3);
+
+    display: grid;
+    place-items: center;
+}
+
+form input, form button, form label{
+    display: block;
+    width: 100%;
+    margin-top: 1.0rem;
+} 
+
+.container{
+    background: white;
+    max-width: 64.0rem;
+    padding: 2.0rem;
+    border-radius: 1.6rem;
+}
+
+form button{
+    border-radius: 1.0rem;
+    border: none;
+    padding: 1.6rem;
+    background: green;
+    color: white;
+}
+
+form input{
+    border: 1px solid green;
+    border-radius: .6rem;
+    padding: 1.6rem;
+}
