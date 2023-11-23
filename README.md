@@ -1,4 +1,4 @@
-# 👨‍🚀 JavaScript and TypeScript course projects from basics to advanced - Udemy
+# 👨‍🚀 Curso-de-Full-Stack-Node-Express-noSQL-React-hooks-Redux-Design-Patterns-Udemy
 
 ![last commit](https://img.shields.io/github/last-commit/Abner-Santana/Curso-Js-TypeScrip-Udemy?color=5F9EA0 'last commit') &nbsp;  ![repo size](https://img.shields.io/github/repo-size/Abner-Santana/Curso-Js-TypeScrip-Udemy?color=5F9EA0 'repo size') &nbsp; ![languages](https://img.shields.io/github/languages/count/Abner-Santana/Curso-Js-TypeScrip-Udemy?color=5F9EA0 'languages') &nbsp; ![license](https://img.shields.io/github/license/Abner-Santana/Curso-Js-TypeScrip-Udemy?color=5F9EA0) 
 <br/>
