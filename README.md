@@ -40,7 +40,7 @@ Além disso, ficaria extremamente grato se você mostrasse seu reconhecimento ao
 
 <div style="display: inline-block;">
   <a href="https://www.linkedin.com/in/abner-santana-7137a3152" target="_blank">
-    <img align="left" height="115em" src="https://media.licdn.com/dms/image/D4D35AQFiQgkdaW_cwA/profile-framedphoto-shrink_200_200/0/1695776154727?e=1699923600&v=beta&t=nX_p4DwtbbhQ6yMkaD3tkUtHeO4Yb1PdmxN0ETKSGcg" style="border-radius: 50%;"></a>
+    <img align="left" height="115em" src="https://avatars.githubusercontent.com/u/123970479?s=400&u=6c1411aa3ad3999b02bdfd57bf030b5b24b842d4&v=4"></a>
 </div>
 
 
