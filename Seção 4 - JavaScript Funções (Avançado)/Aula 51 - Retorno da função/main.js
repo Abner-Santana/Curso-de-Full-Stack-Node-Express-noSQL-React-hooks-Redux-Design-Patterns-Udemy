@@ -1,5 +1,6 @@
 /**Retorno da função*/
 
+//Funcao retornando objeto
 function createPerson(name, surname){
     return {
         name : name, surname : surname

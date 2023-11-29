@@ -5,7 +5,7 @@ function fun(){
     let t = 0
     for(let i of arguments){
         t += i;
-    }    
+    }   
     return t;
 }
 
