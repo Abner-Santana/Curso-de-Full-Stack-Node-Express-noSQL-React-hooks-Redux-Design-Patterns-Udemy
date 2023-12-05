@@ -17,8 +17,8 @@ function exe(f){
 exe(fun);
 
 //Arrow Function
-const arrowFunction = () =>{console.log('Arow Function')};
+const arrowFunction = () =>{
+    console.log('Arow Function')
+};
 
 arrowFunction();
-
-
