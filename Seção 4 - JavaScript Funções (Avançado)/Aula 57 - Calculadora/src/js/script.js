@@ -31,12 +31,6 @@ function calculator(){
                     this.calculation();
                 }
             });
-
-            window.document.addEventListener('keyup', (element)=>{
-                if (element.keyCode === 13) {
-                    this.calculation();
-                  }
-            });
         },
 
         calculation : function(){
